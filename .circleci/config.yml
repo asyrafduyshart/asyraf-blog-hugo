@@ -3,7 +3,6 @@ jobs:
   build:
     docker:
       - image: jnyo/docker-hugo-firebase:latest
-    working_directory: ~/project
     steps:
       - checkout
       - run:
