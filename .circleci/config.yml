@@ -8,7 +8,7 @@ jobs:
       - checkout
       - run:
           name: "Run Hugo"
-          command: HUGO_ENV=production hugo -t hugo-nederburg-theme -v -s ~/project/
+          command: HUGO_ENV=production hugo -v -s ~/project/ -t hugo-nederburg-theme
 #      - run:
 #          name: "Test Website"
 #          command: htmlproofer ~/project/public --allow-hash-href --check-html --empty-alt-ignore
