@@ -3,7 +3,6 @@ jobs:
   build:
     docker:
       - image: nohitme/hugo-firebase:latest
-    working_directory: ~/
     steps:
       - checkout
       - run:
