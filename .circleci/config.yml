@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       - image: nohitme/hugo-firebase:latest
-    working_directory: ~/project
+    working_directory: ~/
     steps:
       - checkout
       - run:
@@ -14,7 +14,7 @@ jobs:
           command: rm -rf public
       - run:
           name: "Run Hugo"
-          command: hugo
+          command: ls && hugo
       - run:
           name: "Check Data"
           command: cd public && ls          
