@@ -8,7 +8,7 @@ jobs:
       - checkout
       - run:
           name: "Run Hugo"
-          command: hugo -t slim
+          command: hugo -t hugo-nederburg-theme
       - deploy:
           branch: master
           command: firebase deploy --token "$FIREBASE_TOKEN"
