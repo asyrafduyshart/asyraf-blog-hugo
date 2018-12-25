@@ -73,7 +73,7 @@ paginate = 5 #frontpage pagination
   [params.writers]
     [params.writers."Asyraf Duyshart"]
     link = "https://asyraf.id/"
-    email = "me@asyraf.id"
+    email = "me@asyraf.id/"
     bio = [
       "I sold my soul to capitalism, mortgage my heart to humanism."
     ]

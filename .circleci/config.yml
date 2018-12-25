@@ -16,5 +16,8 @@ jobs:
           name: "Run Hugo"
           command: hugo
       - run:
+          name: "Check Data"
+          command: cd public && ls          
+      - run:
           name: "Deploy"
           command: firebase deploy --token "$FIREBASE_TOKEN"
