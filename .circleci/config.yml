@@ -7,7 +7,7 @@ jobs:
       - checkout
       - run:
           name: "Hugo Version"
-          command: hugo version
+          command: cat config.toml && hugo version
       - run:
           name: "Remove Public"
           command: rm -rf public
