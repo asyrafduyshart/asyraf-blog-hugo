@@ -16,7 +16,7 @@ paginate = 5 #frontpage pagination
   description = "Cultivated thought and perspective of my life" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Asyraf Duyshart"
-  authorLink = "https://asyraf.id/"
+  authorLink = "https://asyraf.id"
   bio = [
     "I sold my soul to capitalism, mortgage my heart to humanism."
   ]
