@@ -1,11 +1,11 @@
-baseurl = "https://asyraf.id/"
+baseurl = "/"
 title = "Timeless ephiphany"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "asyrafd"
+disqusShortname = "asyraf-id"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-70772819-1"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
