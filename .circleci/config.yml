@@ -7,13 +7,13 @@ jobs:
       - checkout
       - run:
           name: "Hugo Version"
-          command: cat config.toml && hugo version
+          command: hugo version
       - run:
-          name: "Remove Public"
-          command: rm -rf public
+          name: "Pull Hugo Theme"
+          command: git submodule init && git submodule update
       - run:
           name: "Run Hugo"
-          command: ls && hugo -t hugo-nederburg-theme
+          command: hugo
       - run:
           name: "Check Data"
           command: cd public && ls          
