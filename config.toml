@@ -72,7 +72,7 @@ paginate = 5 #frontpage pagination
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
   [params.writers]
     [params.writers."Asyraf Duyshart"]
-    link = "https://asyraf.id"
+    link = "https://asyraf.id/"
     email = "me@asyraf.id"
     bio = [
       "I sold my soul to capitalism, mortgage my heart to humanism."

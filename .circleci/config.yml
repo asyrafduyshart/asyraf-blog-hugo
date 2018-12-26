@@ -13,7 +13,7 @@ jobs:
           command: rm -rf public
       - run:
           name: "Run Hugo"
-          command: ls && hugo
+          command: ls && hugo -t hugo-nederburg-theme
       - run:
           name: "Check Data"
           command: cd public && ls          
