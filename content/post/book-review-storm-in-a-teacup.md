@@ -11,11 +11,11 @@ weight = 1
 
 *This is my first book review in this blog, so maybe a little bit confusing to read, well hopefully not.*
 
-![alt text](https://firebasestorage.googleapis.com/v0/b/asyraf-blog.appspot.com/o/blog%2Fmisc%2FIMG_20190308_062505.jpg?alt=media&token=7875759e-7c53-4c67-be69-f087e47db1ba)
-
 I got this book from Big Bad Wolf 2019, i bought a lot of book... i mean A LOT. From book that I've already read (from pirating off-course err.. err.. *pirate laugh) yes... i bought it as an act of redemption and to calm my 'fragile' soul, the other i bought because I know this was a very great books from the greatest author, another like this one because i got fascinated of the title.
 I mean come on... **Storm in a Teacup**?? who's not intrigue by the title alone, especially if you're nerd. I'm not really a nerd but i got intrigued anyway...
 Storm in a Teacup : The Physics of Everyday Life by Helen Czersky was a fascinating book to read. This book show the very small thing you see everyday like your teacup, popcorn and... DUCKS!! (ohh i love ducks, that godly creature should replace human for the next thousand years) about how and why they do what they do, and then shows us the very big thing that used the same scientific principle.
+
+![alt text](https://firebasestorage.googleapis.com/v0/b/asyraf-blog.appspot.com/o/blog%2Fmisc%2FIMG_20190308_062505.jpg?alt=media&token=2b244490-b660-43c9-8333-0e58467e3572)
 
 The very first chapter of this book was titled: Popcorn and Rockets: The Gas Law, yes.. POPCORN AND ROCKETS!! how on earth this two connected? besides on the movie *Interstellar* or *The Martian* (you watch rockets and eat popcorn...) i don't know any other connection, as it turns out i was wrong, these two used the same gas principle about pressure and heat, whatever makes the corn *POP* when you cook it, make the rocket combusting engine fired then fly to the endless horizon of space. Awesome right? well wait for another one...
 
