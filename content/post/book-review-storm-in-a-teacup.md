@@ -11,9 +11,10 @@ weight = 1
 
 *This is my first book review in this blog, so maybe a little bit confusing to read, well hopefully not.*
 
-I got this book from Big Bad Wolf 2019, i bought a lot of book... i mean A LOT. From book that I've already read (from pirating off-course err.. err.. *pirate laugh) yes... i bought it as an act of redemption and to calm my 'fragile' soul, the other i bought because I know this was a very great books from the greatest author, another like this one because i got fascinated of the title.
+I got this book from Big Bad Wolf 2019, i bought a lot of book... i mean A LOT. From book that I've already read (from pirating off-course err.. err.. *pirate laugh) yes... i bought it as an act of redemption and to calm my 'fragile' soul, the other i bought because I know this was a very great books from the greatest author, another like this one because i got fascinated by the title alone.
 I mean come on... **Storm in a Teacup**?? who's not intrigue by the title alone, especially if you're nerd. I'm not really a nerd but i got intrigued anyway...
-Storm in a Teacup : The Physics of Everyday Life by Helen Czersky was a fascinating book to read. This book show the very small thing you see everyday like your teacup, popcorn and... DUCKS!! (ohh i love ducks, that godly creature should replace human for the next thousand years) about how and why they do what they do, and then shows us the very big thing that used the same scientific principle.
+
+*Storm in a Teacup : The Physics of Everyday Life by Helen Czersky* was a fascinating book to read. This book show the very small thing you see everyday like your teacup, popcorn and... DUCKS!! (ohh i love ducks, that godly creature should replace human for the next thousand years) about how and why they do what they do, and then shows us the very big thing that used the same scientific principle.
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/asyraf-blog.appspot.com/o/blog%2Fmisc%2FIMG_20190308_062505.jpg?alt=media&token=2b244490-b660-43c9-8333-0e58467e3572)
 
@@ -25,6 +26,8 @@ So why don't ducks get cold feet you ask? well... that's because they're **AWESO
 
 They are many awesome things she wrote on the book, read it if you're curious, this book make me appreciate my simple surroundings that got forgotten most of the time, like when you stir your coffee in the morning... because there is a storm brewing right there in your hand where your eyes can't see...
 
-Rate: 3.5/5
+Rate: 3.5 / 5
+
 Level: Easy-Medium (352 pages)
+
 Genre: Science
