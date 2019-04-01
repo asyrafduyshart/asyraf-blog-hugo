@@ -8,7 +8,7 @@ weight = 1
 +++
 
 ### The Universe
-- The universe is very extreme and stupendous large but finite, a human cannot even grasp the sense of the real scale how big the universe is.
+- The universe is very extreme and stupendous large but finite, a human cannot even grasp the sense of the real scale of how big the universe is.
 
 - Universe has no end, the end on one side is the beginning on the other side just like PacMan video game
 
@@ -55,7 +55,7 @@ weight = 1
 
 - Evolution is true because is proven by science and experiment and make sense to explain how is life could possibly this diverse on every corner of the earth.
 
-- I think human consciousness is a tragic misstep in human evolution. We became too self-aware, nature created an aspect of nature separate from itself. 
+- Human consciousness is a tragic misstep in human evolution. We became too self-aware, nature created an aspect of nature separate from itself. 
 
 - We are creatures that should not exist by natural law.
 
@@ -74,13 +74,13 @@ weight = 1
 
 - Religion was created by human
 
-- Mostly the 'God' was created by human to answer questions they don't know, like why there is Thunder? We don't know, therefore Zeus. How's the Universe exists? We don't know, therefore God.
+- Mostly the 'Gods' was created by human to answer questions they don't know, like why there is Thunder? We don't know, therefore Zeus. How's the Universe exists? We don't know, therefore God.
 
-- Mostly God that human believe was just a delusion.
+- Mostly God that human believed was just a delusion.
 
-- Human wanted to be eternal, so religion could be powerful to answer what happen after we die.
+- Human wanted to be eternal, so religion could be powerful to answer to what happen after we die.
 
-- What we feel after we die is the same feeling before we were born.
+- What we feel after we die is the same feel of before we were born.
 
 ------------
 ### Morality
@@ -93,6 +93,6 @@ weight = 1
 
 - Treat others the way I wanted to be treated.
 
-- Karma doesn't exists, consequences does. Don't do things because karma will return, don't do things because of the consequences after.
+- Karma doesn't exists, consequences does. Don't do things because karma will return but because of the consequences after.
 
 - There is no single ultimate morality that justified all, just a moral landscape depends on culture and belief.
