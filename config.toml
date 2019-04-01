@@ -12,7 +12,7 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "Notes from a stranger"
+  slogan = "Simple words, different perspective."
   description = "Cultivated thought and perspective of my life" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Asyraf Duyshart"
@@ -52,8 +52,8 @@ paginate = 5 #frontpage pagination
   weight = 2
 
   [[menu.main]]
-  name = "Get in touch"
-  url = "contact/"
+  name = "Codex Vitae"
+  url = "codex-vitae/summary"
   weight = 3
 
 # this will also be in author bio if there is no writer.
